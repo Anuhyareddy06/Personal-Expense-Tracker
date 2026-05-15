@@ -19,7 +19,6 @@ It is simple, practical, and useful for real-life financial tracking.
 ✅ View all saved expenses  
 ✅ Generate monthly spending summary  
 ✅ Category-wise spending analysis  
-✅ Detect highest spending category  
 ✅ Automatic CSV file creation
 
 ---
@@ -38,6 +37,8 @@ Personal-Expense-Tracker/
 ├── main.py
 ├── expenses.csv
 ├── README.md
+```
+---
 ## 🎯 Project Objective
 
 The main objective of this project is to help users maintain their daily financial records in a simple and organized way. It reduces manual effort in tracking expenses and helps users understand their spending habits through monthly reports and category-wise analysis.
