@@ -38,3 +38,25 @@ Personal-Expense-Tracker/
 ├── main.py
 ├── expenses.csv
 ├── README.md
+## 🎯 Project Objective
+
+The main objective of this project is to help users maintain their daily financial records in a simple and organized way. It reduces manual effort in tracking expenses and helps users understand their spending habits through monthly reports and category-wise analysis.
+
+---
+
+## 💡 Problem Statement
+
+Many people find it difficult to track where their money is being spent every month. This project solves that problem by providing a simple system to record, store, and analyze expenses efficiently using Python and CSV files.
+
+---
+
+## 🔍 How the Project Works
+
+1. User enters daily expense details such as date, category, amount, and description.  
+2. The system stores the data automatically in a CSV file.  
+3. Users can view all saved expenses anytime.  
+4. Monthly summaries are generated based on the entered month.  
+5. The program identifies the highest spending category for better financial planning.
+
+---
+
